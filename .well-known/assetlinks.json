@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bybroken.coloring",
+      "sha256_cert_fingerprints": [
+        "4E:6D:DC:DC:27:6E:F8:53:B8:DF:11:AE:2E:C7:80:D1:0A:B8:2C:44:B0:11:88:49:A5:23:4F:D1:56:A5:B0:48",
+        "1C:F8:50:5E:BE:F9:2C:46:8F:46:CA:F4:6D:60:1F:B2:34:3C:67:54:C4:F0:DF:98:29:8E:A7:6D:93:32:4D:7B"
+      ]
+    }
+  }
+]
